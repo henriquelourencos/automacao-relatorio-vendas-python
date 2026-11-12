@@ -45,7 +45,7 @@ O processo é dividido em cinco etapas:
 Clone este repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/henriquelourencos/automacao-relatorio-vendas-python.git
 ```
 
 Instale as dependências:
